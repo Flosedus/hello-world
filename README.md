@@ -14,4 +14,8 @@ Now this should be a new branch (hopefully).
 
 Okay, maybe this then?
 
-What happens if I do this?
+DELETED
+
+Lawl... staging or what?
+
+Can i still change this? it seems yes... ?
