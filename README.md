@@ -5,4 +5,6 @@ This is the readme file of my GitHub learning journy...
 
 Let's test whether this shit actually updates... ?
 
-new branch added 
+
+Lol ihr Spasten
+Okay let us delete something and see what happens
